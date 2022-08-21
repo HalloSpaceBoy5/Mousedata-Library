@@ -1,6 +1,6 @@
 This is a libray meant to simplifiy the process of measuring the mouse. This labrary requires the module mouse (pip install mouse). Documentation is as follows:
 
-## getMouseX()
+##getMouseX()
 Finds the mouse's X coordinate and returns it as an integer.
 
 ## getMouseY()
